@@ -1,0 +1,49 @@
+body{	
+   background-color:white;
+   padding-top: 5%;
+   padding-left: 13%;
+   padding-right: 13%;
+    font-size: 150%;
+
+}
+
+header{
+	text-align: center;
+	font-size: 200%;
+	padding-bottom: 12%;
+}
+
+.frontpage{
+	padding-left: 25%;
+	padding-right: 25%;
+	text-align: center;
+	padding-bottom: 15%;
+}
+
+
+.contents{
+	padding-bottom: 15%;
+}
+
+.introduction{
+	padding-bottom: 10%;
+}
+
+
+.uidesign{
+	padding-bottom: 3%;
+}
+
+
+.experience{
+	padding-bottom: 2%;
+}
+
+
+.Implementation{
+	padding-bottom: 3%;
+}
+
+
+
+
